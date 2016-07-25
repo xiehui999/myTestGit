@@ -4,5 +4,5 @@ add content   2
 add content   3
 branchB  write
 
-add user.name=
-add user.email=
+add user.name=MASTER
+add user.email=MASTER@gmail.com
