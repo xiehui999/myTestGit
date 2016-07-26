@@ -7,3 +7,5 @@ branchB  write
 add user.name=MASTER
 add user.email=MASTER@gmail.com
 
+
+testbranch commit content
